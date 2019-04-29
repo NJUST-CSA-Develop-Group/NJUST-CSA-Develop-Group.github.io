@@ -1,0 +1,16 @@
+{
+    "name": "The-11th-TuringCup",
+    "type": "repo",
+    "version": {
+        "value": "1.0.0",
+        "url": ""
+    },
+    "license": {
+        "name": "MPL",
+        "url": "https://github.com/NJUST-CSA-Develop-Group/The-11th-TuringCup/blob/master/LICENSE"
+    },
+    "repository": {
+        "repoName": "NJUST-CSA-Develop-Group/The-11th-TuringCup",
+        "url": "https://github.com/NJUST-CSA-Develop-Group/The-11th-TuringCup"
+    }
+}
